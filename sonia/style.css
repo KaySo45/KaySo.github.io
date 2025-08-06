@@ -1,0 +1,33 @@
+#navbarTogglerDemo01 ul li a{
+	font-weight: bold;
+	letter-spacing: 1px;
+	font-family: sans-serif;
+	padding: 0 1px;
+	margin: 35px;
+
+}
+.#navbarTogglerDemo01 a:hover{
+	font-size: 18px;
+	color: white;
+	font-weight: 500;
+	border-bottom: 2px solid black;
+}
+.navbar{
+	background:radial-gradient(orange,lightgrey);
+}
+#carouselExampleCaptions img{
+	width: 100px;
+	height: 360px;
+
+}
+.page-section img{
+	width: 350px;
+	border-radius: 10px;
+	height: 150px;
+}
+.container-fluit{
+	padding: 20px 0;
+}
+.container-fluit h3{
+	color: white;
+}
